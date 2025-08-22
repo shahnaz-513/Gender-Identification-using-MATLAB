@@ -19,7 +19,7 @@ By testing a number of audio files one by one, we can establish general frequenc
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Open MATLAB.  
 2. Update the script with the path of your audio file:  
    
